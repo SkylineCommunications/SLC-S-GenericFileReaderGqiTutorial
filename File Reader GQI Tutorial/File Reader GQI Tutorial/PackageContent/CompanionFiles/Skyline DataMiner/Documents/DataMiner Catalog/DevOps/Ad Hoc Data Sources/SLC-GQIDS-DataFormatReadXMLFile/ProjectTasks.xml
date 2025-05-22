@@ -1,0 +1,2442 @@
+<Root>
+	<Columns>
+		<Column>
+			<Name>Task ID</Name>
+			<Type>int</Type>
+		</Column>
+		<Column>
+			<Name>Task Name</Name>
+			<Type>string</Type>
+		</Column>
+		<Column>
+			<Name>Assignee</Name>
+			<Type>string</Type>
+		</Column>
+		<Column>
+			<Name>Time Spent</Name>
+			<Type>double</Type>
+		</Column>
+		<Column>
+			<Name>Project Name</Name>
+			<Type>string</Type>
+		</Column>
+		<Column>
+			<Name>Task Due Date</Name>
+			<Type>datetime</Type>
+		</Column>
+		<Column>
+			<Name>Total Project Time</Name>
+			<Type>double</Type>
+		</Column>
+		<Column>
+			<Name>Project Due Date</Name>
+			<Type>datetime</Type>
+		</Column>
+		<Column>
+			<Name>Completed</Name>
+			<Type>boolean</Type>
+		</Column>
+	</Columns>
+	<Rows>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Requirements Discovery Workshop</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Elias Novak</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.67</Value>
+					<DisplayValue>5.67 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1766725200000</Value>
+					<DisplayValue>12/26/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Initial Architecture Blueprint</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Kai Bennett</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.77</Value>
+					<DisplayValue>5.77 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1765515600000</Value>
+					<DisplayValue>12/12/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>API Gateway Configuration</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Zara Monroe</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.79</Value>
+					<DisplayValue>2.79 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1771563600000</Value>
+					<DisplayValue>2/20/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Frontend Framework Selection</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Theo Ramsey</Value>
+
+				</Cell>
+				<Cell>
+					<Value>6.15</Value>
+					<DisplayValue>6.15 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1766725200000</Value>
+					<DisplayValue>12/26/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Cloud Environment Setup</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Kai Bennett</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.07</Value>
+					<DisplayValue>1.07 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1764306000000</Value>
+					<DisplayValue>11/28/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>CI/CD Pipeline Integration</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Lena Whitmore</Value>
+
+				</Cell>
+				<Cell>
+					<Value>6.42</Value>
+					<DisplayValue>6.42 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1767934800000</Value>
+					<DisplayValue>1/9/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Microservices Deployment Strategy</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Lena Whitmore</Value>
+
+				</Cell>
+				<Cell>
+					<Value>4.14</Value>
+					<DisplayValue>4.14 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1765515600000</Value>
+					<DisplayValue>12/12/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>User Authentication Module</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Nina Calderon</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.11</Value>
+					<DisplayValue>5.11 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Data Schema Finalization</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Maya Chen</Value>
+
+				</Cell>
+				<Cell>
+					<Value>3.35</Value>
+					<DisplayValue>3.35 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1767934800000</Value>
+					<DisplayValue>1/9/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Performance Benchmarking</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Elias Novak</Value>
+
+				</Cell>
+				<Cell>
+					<Value>3.23</Value>
+					<DisplayValue>3.23 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1763096400000</Value>
+					<DisplayValue>11/14/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>UX Wireframe Review</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Amira Solis</Value>
+
+				</Cell>
+				<Cell>
+					<Value>4.8</Value>
+					<DisplayValue>4.8 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Feature Flag Implementation</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Amira Solis</Value>
+
+				</Cell>
+				<Cell>
+					<Value>3.56</Value>
+					<DisplayValue>3.56 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1769144400000</Value>
+					<DisplayValue>1/23/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Logging &amp; Monitoring Setup</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Dante Rivers</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.42</Value>
+					<DisplayValue>1.42 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1772773200000</Value>
+					<DisplayValue>3/6/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>QA Automation Scripts</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Kai Bennett</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.07</Value>
+					<DisplayValue>1.07 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1764306000000</Value>
+					<DisplayValue>11/28/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>DevOps Workflow Optimization</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Jasper Lin</Value>
+
+				</Cell>
+				<Cell>
+					<Value>4.78</Value>
+					<DisplayValue>4.78 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1770354000000</Value>
+					<DisplayValue>2/6/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Security Audit Checklist</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Theo Ramsey</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.59</Value>
+					<DisplayValue>5.59 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1767934800000</Value>
+					<DisplayValue>1/9/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Beta Testing Coordination</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Theo Ramsey</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.29</Value>
+					<DisplayValue>2.29 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1769144400000</Value>
+					<DisplayValue>1/23/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Stakeholder Demo Prep</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Amira Solis</Value>
+
+				</Cell>
+				<Cell>
+					<Value>0.68</Value>
+					<DisplayValue>0.68 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1765515600000</Value>
+					<DisplayValue>12/12/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Documentation Sprint</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Maya Chen</Value>
+
+				</Cell>
+				<Cell>
+					<Value>0.97</Value>
+					<DisplayValue>0.97 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1772773200000</Value>
+					<DisplayValue>3/6/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Post-Launch Support Plan</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Maya Chen</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.04</Value>
+					<DisplayValue>5.04 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Greenfield Solutions</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1769144400000</Value>
+					<DisplayValue>1/23/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>55</Value>
+					<DisplayValue>55 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1760673600000</Value>
+					<DisplayValue>10/17/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Client Onboarding Framework</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Maya Chen</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.9</Value>
+					<DisplayValue>2.9 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1760068800000</Value>
+					<DisplayValue>10/10/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Legacy System Assessment</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Elias Novak</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.52</Value>
+					<DisplayValue>5.52 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Data Migration Plan</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Lena Whitmore</Value>
+
+				</Cell>
+				<Cell>
+					<Value>6.05</Value>
+					<DisplayValue>6.05 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1757649600000</Value>
+					<DisplayValue>9/12/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Integration Middleware Design</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Kai Bennett</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.65</Value>
+					<DisplayValue>1.65 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1761278400000</Value>
+					<DisplayValue>10/24/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Enterprise API Catalog</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Dante Rivers</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.49</Value>
+					<DisplayValue>1.49 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1758859200000</Value>
+					<DisplayValue>9/26/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Role-Based Access Control Setup</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Elias Novak</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.75</Value>
+					<DisplayValue>5.75 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1761278400000</Value>
+					<DisplayValue>10/24/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Load Testing Protocol</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Zara Monroe</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.95</Value>
+					<DisplayValue>5.95 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1757649600000</Value>
+					<DisplayValue>9/12/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Compliance Readiness Review</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Jasper Lin</Value>
+
+				</Cell>
+				<Cell>
+					<Value>6.97</Value>
+					<DisplayValue>6.97 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1761278400000</Value>
+					<DisplayValue>10/24/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Dashboard UI Mockups</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Dante Rivers</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.15</Value>
+					<DisplayValue>2.15 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1756440000000</Value>
+					<DisplayValue>8/29/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Sprint Planning Session</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Lena Whitmore</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.9</Value>
+					<DisplayValue>2.9 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1756440000000</Value>
+					<DisplayValue>8/29/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Code Quality Review</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Amira Solis</Value>
+
+				</Cell>
+				<Cell>
+					<Value>6.68</Value>
+					<DisplayValue>6.68 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1761278400000</Value>
+					<DisplayValue>10/24/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Incident Response Playbook</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Zara Monroe</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.58</Value>
+					<DisplayValue>2.58 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1758859200000</Value>
+					<DisplayValue>9/26/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Release Management Workflow</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Jasper Lin</Value>
+
+				</Cell>
+				<Cell>
+					<Value>3.92</Value>
+					<DisplayValue>3.92 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1757649600000</Value>
+					<DisplayValue>9/12/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>SLA Metrics Definition</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Jasper Lin</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.37</Value>
+					<DisplayValue>5.37 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1761278400000</Value>
+					<DisplayValue>10/24/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Change Request Tracker</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Nina Calderon</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.81</Value>
+					<DisplayValue>5.81 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1758859200000</Value>
+					<DisplayValue>9/26/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Internal Training Module</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Nina Calderon</Value>
+
+				</Cell>
+				<Cell>
+					<Value>4.07</Value>
+					<DisplayValue>4.07 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1758859200000</Value>
+					<DisplayValue>9/26/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Vendor Integration Checklist</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Maya Chen</Value>
+
+				</Cell>
+				<Cell>
+					<Value>6.37</Value>
+					<DisplayValue>6.37 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>System Health Dashboard</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Dante Rivers</Value>
+
+				</Cell>
+				<Cell>
+					<Value>6.53</Value>
+					<DisplayValue>6.53 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1757649600000</Value>
+					<DisplayValue>9/12/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Governance Policy Draft</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Dante Rivers</Value>
+
+				</Cell>
+				<Cell>
+					<Value>0.59</Value>
+					<DisplayValue>0.59 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1760068800000</Value>
+					<DisplayValue>10/10/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Final Handoff Documentation</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Dante Rivers</Value>
+
+				</Cell>
+				<Cell>
+					<Value>3.84</Value>
+					<DisplayValue>3.84 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>Atlas Development Group</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1756440000000</Value>
+					<DisplayValue>8/29/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>80</Value>
+					<DisplayValue>80 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1755230400000</Value>
+					<DisplayValue>8/15/2025 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Community Needs Assessment</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Amira Solis</Value>
+
+				</Cell>
+				<Cell>
+					<Value>4.74</Value>
+					<DisplayValue>4.74 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1777003200000</Value>
+					<DisplayValue>4/24/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Stakeholder Interview Series</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Zara Monroe</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.57</Value>
+					<DisplayValue>2.57 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1777003200000</Value>
+					<DisplayValue>4/24/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Open Data Portal Setup</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Nina Calderon</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.92</Value>
+					<DisplayValue>1.92 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1779422400000</Value>
+					<DisplayValue>5/22/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Accessibility Compliance Review</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Elias Novak</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.58</Value>
+					<DisplayValue>2.58 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1772168400000</Value>
+					<DisplayValue>2/27/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Mobile App Prototype</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Amira Solis</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.54</Value>
+					<DisplayValue>5.54 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1779422400000</Value>
+					<DisplayValue>5/22/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Public Feedback Integration</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Jasper Lin</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.01</Value>
+					<DisplayValue>2.01 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1785470400000</Value>
+					<DisplayValue>7/31/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>GIS Mapping Module</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Jasper Lin</Value>
+
+				</Cell>
+				<Cell>
+					<Value>5.25</Value>
+					<DisplayValue>5.25 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1785470400000</Value>
+					<DisplayValue>7/31/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Volunteer Management System</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Lena Whitmore</Value>
+
+				</Cell>
+				<Cell>
+					<Value>0.88</Value>
+					<DisplayValue>0.88 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1770958800000</Value>
+					<DisplayValue>2/13/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Localized Content Strategy</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Kai Bennett</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.94</Value>
+					<DisplayValue>1.94 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1781841600000</Value>
+					<DisplayValue>6/19/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Privacy Policy Drafting</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Jasper Lin</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.01</Value>
+					<DisplayValue>1.01 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1779422400000</Value>
+					<DisplayValue>5/22/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Outreach Campaign Planning</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Kai Bennett</Value>
+
+				</Cell>
+				<Cell>
+					<Value>6.4</Value>
+					<DisplayValue>6.4 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1789099200000</Value>
+					<DisplayValue>9/11/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Citizen Dashboard Design</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Nina Calderon</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.56</Value>
+					<DisplayValue>1.56 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1787889600000</Value>
+					<DisplayValue>8/28/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Multi-language Support Testing</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Maya Chen</Value>
+
+				</Cell>
+				<Cell>
+					<Value>0.95</Value>
+					<DisplayValue>0.95 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1780632000000</Value>
+					<DisplayValue>6/5/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Public Beta Launch</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Lena Whitmore</Value>
+
+				</Cell>
+				<Cell>
+					<Value>3.76</Value>
+					<DisplayValue>3.76 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1773374400000</Value>
+					<DisplayValue>3/13/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Digital Literacy Toolkit</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Dante Rivers</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1.4</Value>
+					<DisplayValue>1.4 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1779422400000</Value>
+					<DisplayValue>5/22/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Town Hall Presentation Prep</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Kai Bennett</Value>
+
+				</Cell>
+				<Cell>
+					<Value>2.16</Value>
+					<DisplayValue>2.16 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1773374400000</Value>
+					<DisplayValue>3/13/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Feedback Loop Implementation</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Jasper Lin</Value>
+
+				</Cell>
+				<Cell>
+					<Value>3.79</Value>
+					<DisplayValue>3.79 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1784260800000</Value>
+					<DisplayValue>7/17/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Grant Reporting Automation</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Elias Novak</Value>
+
+				</Cell>
+				<Cell>
+					<Value>3.03</Value>
+					<DisplayValue>3.03 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1779422400000</Value>
+					<DisplayValue>5/22/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Community Impact Metrics</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Theo Ramsey</Value>
+
+				</Cell>
+				<Cell>
+					<Value>6.59</Value>
+					<DisplayValue>6.59 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1773374400000</Value>
+					<DisplayValue>3/13/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>false</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+		<Row>
+			<Cells>
+				<Cell>
+					<Value>542165</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Final Project Showcase</Value>
+
+				</Cell>
+				<Cell>
+					<Value>Theo Ramsey</Value>
+
+				</Cell>
+				<Cell>
+					<Value>0.56</Value>
+					<DisplayValue>0.56 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>HarborPoint Initiative</Value>
+
+				</Cell>
+				<Cell>
+					<Value>1786680000000</Value>
+					<DisplayValue>8/14/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>200</Value>
+					<DisplayValue>200 Days</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>1769749200000</Value>
+					<DisplayValue>1/30/2026 12:00:00 AM</DisplayValue>
+				</Cell>
+				<Cell>
+					<Value>true</Value>
+
+				</Cell>
+			</Cells>
+		</Row>
+	</Rows>
+</Root>

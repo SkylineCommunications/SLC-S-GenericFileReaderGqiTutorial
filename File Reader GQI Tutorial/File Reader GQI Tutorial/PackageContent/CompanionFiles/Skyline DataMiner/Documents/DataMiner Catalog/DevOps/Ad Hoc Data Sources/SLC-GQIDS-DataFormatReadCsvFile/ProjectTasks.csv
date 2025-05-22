@@ -1,0 +1,61 @@
+Task ID::int,Task Name::string,Asignee::string,Time Spent (Days)::double,Project Name::string,Task Due Date::datetime,Total Project Time (Days)::double,Project Due Date::datetime,Completed::bool
+542165,Requirements Discovery Workshop,Zara Monroe,4.15,Greenfield Solutions,2/6/2026 12:00:00 AM,55,10/17/2025 12:00:00 AM,False
+542165,Initial Architecture Blueprint,Jasper Lin,6.08,Greenfield Solutions,12/26/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,API Gateway Configuration,Elias Novak,6.41,Greenfield Solutions,2/20/2026 12:00:00 AM,55,10/17/2025 12:00:00 AM,False
+542165,Frontend Framework Selection,Jasper Lin,2.43,Greenfield Solutions,2/6/2026 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,Cloud Environment Setup,Kai Bennett,2.85,Greenfield Solutions,1/23/2026 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,CI/CD Pipeline Integration,Nina Calderon,4.02,Greenfield Solutions,10/31/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,Microservices Deployment Strategy,Jasper Lin,5.32,Greenfield Solutions,2/6/2026 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,User Authentication Module,Dante Rivers,3.16,Greenfield Solutions,12/26/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,False
+542165,Data Schema Finalization,Maya Chen,2.51,Greenfield Solutions,1/9/2026 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,Performance Benchmarking,Theo Ramsey,3.92,Greenfield Solutions,2/20/2026 12:00:00 AM,55,10/17/2025 12:00:00 AM,False
+542165,UX Wireframe Review,Nina Calderon,1.63,Greenfield Solutions,11/14/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,False
+542165,Feature Flag Implementation,Kai Bennett,3.16,Greenfield Solutions,10/31/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,False
+542165,Logging & Monitoring Setup,Dante Rivers,5.75,Greenfield Solutions,10/17/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,False
+542165,QA Automation Scripts,Elias Novak,3.72,Greenfield Solutions,11/14/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,DevOps Workflow Optimization,Lena Whitmore,2.85,Greenfield Solutions,2/6/2026 12:00:00 AM,55,10/17/2025 12:00:00 AM,False
+542165,Security Audit Checklist,Zara Monroe,2.22,Greenfield Solutions,10/17/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,Beta Testing Coordination,Maya Chen,4.31,Greenfield Solutions,10/17/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,False
+542165,Stakeholder Demo Prep,Maya Chen,4.72,Greenfield Solutions,12/26/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,Documentation Sprint,Lena Whitmore,2.09,Greenfield Solutions,12/12/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,Post-Launch Support Plan,Kai Bennett,0.9,Greenfield Solutions,12/26/2025 12:00:00 AM,55,10/17/2025 12:00:00 AM,True
+542165,Client Onboarding Framework,Theo Ramsey,6.2,Atlas Development Group,9/26/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,True
+542165,Legacy System Assessment,Maya Chen,4.76,Atlas Development Group,8/29/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Data Migration Plan,Zara Monroe,3.63,Atlas Development Group,9/12/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Integration Middleware Design,Kai Bennett,3.62,Atlas Development Group,8/29/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,True
+542165,Enterprise API Catalog,Amira Solis,4.21,Atlas Development Group,9/12/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Role-Based Access Control Setup,Lena Whitmore,3.38,Atlas Development Group,10/10/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Load Testing Protocol,Lena Whitmore,3,Atlas Development Group,8/15/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,True
+542165,Compliance Readiness Review,Theo Ramsey,4.12,Atlas Development Group,10/10/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,True
+542165,Dashboard UI Mockups,Maya Chen,1,Atlas Development Group,8/29/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,True
+542165,Sprint Planning Session,Jasper Lin,4.14,Atlas Development Group,8/15/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Code Quality Review,Theo Ramsey,3.23,Atlas Development Group,9/12/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,True
+542165,Incident Response Playbook,Amira Solis,5.74,Atlas Development Group,9/26/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Release Management Workflow,Nina Calderon,1.5,Atlas Development Group,9/12/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,True
+542165,SLA Metrics Definition,Amira Solis,4.17,Atlas Development Group,9/12/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,True
+542165,Change Request Tracker,Lena Whitmore,6.01,Atlas Development Group,9/12/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,True
+542165,Internal Training Module,Kai Bennett,0.59,Atlas Development Group,8/29/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Vendor Integration Checklist,Kai Bennett,1.75,Atlas Development Group,9/26/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,System Health Dashboard,Theo Ramsey,1.98,Atlas Development Group,10/24/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Governance Policy Draft,Dante Rivers,5.02,Atlas Development Group,10/10/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Final Handoff Documentation,Dante Rivers,3.95,Atlas Development Group,8/15/2025 12:00:00 AM,80,8/15/2025 12:00:00 AM,False
+542165,Community Needs Assessment,Maya Chen,6.7,HarborPoint Initiative,9/11/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,True
+542165,Stakeholder Interview Series,Elias Novak,3.67,HarborPoint Initiative,8/14/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Open Data Portal Setup,Theo Ramsey,5.85,HarborPoint Initiative,5/8/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Accessibility Compliance Review,Amira Solis,1.53,HarborPoint Initiative,6/19/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Mobile App Prototype,Lena Whitmore,4.53,HarborPoint Initiative,8/28/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,True
+542165,Public Feedback Integration,Maya Chen,4.78,HarborPoint Initiative,9/11/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,GIS Mapping Module,Jasper Lin,3.29,HarborPoint Initiative,7/17/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Volunteer Management System,Amira Solis,6.48,HarborPoint Initiative,4/10/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Localized Content Strategy,Amira Solis,4.57,HarborPoint Initiative,4/10/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,True
+542165,Privacy Policy Drafting,Theo Ramsey,4.95,HarborPoint Initiative,4/24/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Outreach Campaign Planning,Theo Ramsey,6.36,HarborPoint Initiative,2/27/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,True
+542165,Citizen Dashboard Design,Elias Novak,3.13,HarborPoint Initiative,5/22/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,True
+542165,Multi-language Support Testing,Elias Novak,0.82,HarborPoint Initiative,1/30/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Public Beta Launch,Jasper Lin,6.55,HarborPoint Initiative,6/5/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Digital Literacy Toolkit,Nina Calderon,0.58,HarborPoint Initiative,3/27/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,True
+542165,Town Hall Presentation Prep,Zara Monroe,0.83,HarborPoint Initiative,9/11/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Feedback Loop Implementation,Elias Novak,6.55,HarborPoint Initiative,2/27/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Grant Reporting Automation,Kai Bennett,5.16,HarborPoint Initiative,4/24/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,True
+542165,Community Impact Metrics,Zara Monroe,5.54,HarborPoint Initiative,3/27/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,False
+542165,Final Project Showcase,Lena Whitmore,4.71,HarborPoint Initiative,6/19/2026 12:00:00 AM,200,1/30/2026 12:00:00 AM,True
