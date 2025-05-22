@@ -19,4 +19,16 @@
 		</Selection>
 	</CatalogReference>
 -->
+	<CatalogReference id="0d9b64f3-81d0-46e6-bd3f-5fced5339103">
+		<Name>File Reader</Name>
+		<Selection>
+			<Range>1.0.0</Range>
+		</Selection>
+	</CatalogReference>
+	<CatalogReference id="0cebf1e6-258f-43c3-9c5b-77e3cfbdebcb">
+		<Name>File Manager - Ad Hoc</Name>
+		<Selection>
+			<Range>1.0.0</Range>
+		</Selection>
+	</CatalogReference>
 </CatalogReferences>
