@@ -25,10 +25,4 @@
 			<Range>1.0.0</Range>
 		</Selection>
 	</CatalogReference>
-	<CatalogReference id="0cebf1e6-258f-43c3-9c5b-77e3cfbdebcb">
-		<Name>File Manager - Ad Hoc</Name>
-		<Selection>
-			<Range>1.0.0</Range>
-		</Selection>
-	</CatalogReference>
 </CatalogReferences>
