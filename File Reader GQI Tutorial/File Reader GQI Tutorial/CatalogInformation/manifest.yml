@@ -59,8 +59,8 @@ documentation_url:
 #   The name is required; max 256 characters.
 #   The email and URL are optional, and should be in valid email/URL formats.
 owners:
-  - name: 'Gabriel Borges'
-  - email: gabriel.borges@skyline.be
+  - name: Gabriel Borges
+    email: gabriel.borges@skyline.be
   
 # [Optional]
 # Tags that allow you to categorize your Catalog items.
