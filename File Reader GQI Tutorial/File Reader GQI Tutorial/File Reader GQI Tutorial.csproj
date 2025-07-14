@@ -16,7 +16,7 @@
     <UserSecretsId>593352c8-e2d8-4c7a-94fb-089fe44809ec</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Skyline.DataMiner.Core.AppPackageInstaller" Version="2.1.1" />
+    <PackageReference Include="Skyline.DataMiner.Core.AppPackageInstaller" Version="3.0.0" />
     <PackageReference Include="Skyline.DataMiner.Dev.Automation" Version="10.3.0.24" />
     <PackageReference Include="System.Collections.Immutable" Version="9.0.7" />
     <PackageReference Include="Skyline.DataMiner.Utils.SecureCoding.Analyzers" Version="2.0.5">
