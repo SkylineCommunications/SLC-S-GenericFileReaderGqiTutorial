@@ -1,14 +1,19 @@
 # File Reader GQI Tutorial
 
-## Overview
-This demonstration shows the ease of ingesting any file types into Dataminer's Low Code App's module, converting raw file data into a beautiful presentation with the ability to aggregate, manipulate, and correlate. This demo shows how versatile and simple it is to create these apps for CSV, JSON, and XML files.
+## About
+
+This package demonstrates how to ingest raw CSV, JSON, and XML file data into DataMiner's Low-Code Apps module using the ad hoc data sources found in the [File Reader](https://catalog.dataminer.services/details/0d9b64f3-81d0-46e6-bd3f-5fced5339103) package, and how to aggregate, manipulate, and correlate that data afterwards.
 
 ![Demo](./Images/Demo.gif)
 
-## How to use
+## Getting started
 
-After deploying the package, a Low Code App called "File Reader Test" will be added to the DMA. This can be accessed via Cube in the Apps section or navigating to the DMA's home page in your preferred web browser.
+1. Deploy the package to add a low-code app named *File Reader Test* to your DMA.
+1. Open the app
 
-## Support
+   - In the *Apps* section of DataMiner Cube, or
+   - On the root page of your DMA.
 
-For questions or issues not addressed in the documentation, contact Skyline support at techsupport@skyline.be.
+## Technical Reference
+
+If you have any questions, or if you encounter issues that are not addressed in the documentation, contact Skyline support at <support@dataminer.services>.
