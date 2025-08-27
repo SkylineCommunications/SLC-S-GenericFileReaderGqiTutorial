@@ -34,7 +34,7 @@ id: f7ecd365-7bf9-406d-978f-eaca9e3aa9c2
 #   Max length: 100 characters.
 #   Cannot contain newlines.
 #   Cannot contain leading or trailing whitespace characters.
-title: Generic File Reader GQI Tutorial
+title: File Reader GQI Tutorial
 
 # [Optional]
 # General information about the Catalog item.
